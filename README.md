@@ -14,7 +14,7 @@ Terdapat 2 role yang tersedia dalam program ini yaitu
    Hanya dapat mengakses penggunaan operasi melihat daftar ekstrakurikuler yang sudah ada
 
 # Flowchart
-[Gambar Flowchart]
+<img width="1550" height="1866" alt="Minpro2 drawio" src="https://github.com/user-attachments/assets/641ca3ac-f9c7-43a9-84ce-4e4bfdb5ecb2" />
 
 # Penjelasan Flowchart
 ## Mulai Program
@@ -27,15 +27,15 @@ Pengguna harus memasukkan username dan password. Terdapat 2 percabangan, yaitu s
 
 ## Penampilan Menu
 Program akan menampilkan menunya berdasarkan role pengguna, yaitu sebagai berikut :
-1. Manager :
-   a. Lihat Daftar Ekskul
-   b. Tambah Ekskul
-   c. Ubah Ekskul
-   d. Hapus Ekskul
-   e. Keluar
-3. Karyawan
-   a. Lihat Daftar Ekskul
-   b. Keluar
+1. Manager :\
+   a. Lihat Daftar Ekskul\
+   b. Tambah Ekskul\
+   c. Ubah Ekskul\
+   d. Hapus Ekskul\
+   e. Keluar\
+3. Karyawan\
+   a. Lihat Daftar Ekskul\
+   b. Keluar\
 
 ## Pilihan Menu
 Proses Berdasarkan Pilihan Menu :
@@ -68,19 +68,65 @@ Jika pengguna memasukkan input yang tidak sesuai:
 # Selesai Program
 Dengan pengguna yang telah memilih menu operasi ke lima yaitu Keluar sebagai pengakhir program
 
-
 # Kerangka Program
-## Array
-<img width="541" height="93" alt="image" src="https://github.com/user-attachments/assets/528d1122-2d27-423b-ab2b-37816470ebab" />\
-Dibagian awal program, terlihat sebuah array yang sudah terisi, hal ini dikarenakan program tidak memakai **sistem perulangan**, mengharuskan array harus diisi terlebih dahulu sebelum dijalankan
+## Import Fungsi
+<img width="358" height="78" alt="image" src="https://github.com/user-attachments/assets/b1c4e3ce-d777-4efc-bf91-cd90b6b8fa9a" />
 
-## Print Menu
-<img width="536" height="195" alt="image" src="https://github.com/user-attachments/assets/f13a140f-c4fc-4865-9620-337b32659fdd" />\
-Di atas ini adalah bagian progam yang bekerja untuk menampilkan menu
+## Dictionary
+<img width="788" height="154" alt="image" src="https://github.com/user-attachments/assets/d9df80d9-d60d-4810-8d08-07cd9284c008" />
 
-## Pilihan 
-<img width="437" height="24" alt="image" src="https://github.com/user-attachments/assets/42109bc6-3d61-4daf-a6b7-f32bb237048b" />\
-Di sini program akan menginput pilihan nomor yang anda input dan akan dimasukkan kedalam **variabel data**
+## Fungsi Menambah Ekskul
+<img width="861" height="457" alt="image" src="https://github.com/user-attachments/assets/aa86f144-1467-4b5f-a210-fcf810947f72" />
 
-## Program Fungsi Pertama
-<img width="493" height="192" alt="image" src="https://github.com/user-attachments/assets/17cec980-d88e-4faf-8eda-9efa4b0af3c3" />\
+## Fungsi Melihat Daftar Ekskul
+<img width="759" height="229" alt="image" src="https://github.com/user-attachments/assets/5e8fa80d-9fa3-4e48-b144-87ab903a8c3c" />
+
+## Fungsi Mengubah Ekskul
+<img width="792" height="557" alt="image" src="https://github.com/user-attachments/assets/f83efe0a-400a-4a5e-bf8d-fa0bca9d1bed" />
+
+## Fungsi Menghapus Ekskul
+<img width="774" height="592" alt="image" src="https://github.com/user-attachments/assets/0a51700c-c8db-4c17-93f7-1b18d2c8dd54" />
+
+## Fungsi Keluar
+<img width="439" height="81" alt="image" src="https://github.com/user-attachments/assets/9435e25a-c33e-45ac-a935-bc10e94b660c" />
+
+## Fungsi Login
+<img width="613" height="469" alt="image" src="https://github.com/user-attachments/assets/642b0adf-3aa8-4d63-80ac-eca043b96dc1" />
+
+## Fungsi Menu
+<img width="517" height="450" alt="image" src="https://github.com/user-attachments/assets/5d7ef232-4d85-4f68-8e84-f4128b1ac21b" />
+
+## Fungsi pilihan
+<img width="491" height="456" alt="image" src="https://github.com/user-attachments/assets/527a95e4-e0d8-4bcf-a5f1-6cdadba71e7f" />
+
+
+# Output dan Penggunaan
+## Menu Program (Manager)
+<img width="462" height="290" alt="image" src="https://github.com/user-attachments/assets/b2facbbd-26ff-4109-b6a1-fef8737503c7" />
+
+## Menu Program (Karyawan)
+<img width="433" height="234" alt="image" src="https://github.com/user-attachments/assets/381a7926-bdbf-48ae-b74f-9145f41eece7" />
+
+## Tambah Ekskul
+<img width="417" height="244" alt="image" src="https://github.com/user-attachments/assets/524ee3dd-4051-42f1-9953-4f43a8e57502" />
+
+## Menampilkan Daftar Ekskul
+<img width="541" height="327" alt="image" src="https://github.com/user-attachments/assets/3882af94-19a9-4404-9aa4-17c51821030e" />
+
+## Mengubah Ekskul
+<img width="508" height="417" alt="image" src="https://github.com/user-attachments/assets/b21b057e-bbb0-4ae4-8347-45376d9c72db" />
+
+## Menghapus Ekskul
+<img width="535" height="356" alt="image" src="https://github.com/user-attachments/assets/b1bfa571-719e-4385-81a6-15dbb75cc8dd" />
+
+## Mengakhiri Program
+<img width="313" height="195" alt="image" src="https://github.com/user-attachments/assets/549e6c8d-700e-41df-9c03-6d1295cfb6d5" />
+
+## Beberapa Error Handling
+<img width="356" height="118" alt="image" src="https://github.com/user-attachments/assets/4a945586-5481-4eed-90be-bb24c8ea74ae" />
+<img width="527" height="376" alt="image" src="https://github.com/user-attachments/assets/3539f8ba-006c-45c2-9257-05b1d1d83ee6" />
+<img width="627" height="324" alt="image" src="https://github.com/user-attachments/assets/0bf948b8-f236-4423-b2ce-1259582886b2" />
+
+
+
+
