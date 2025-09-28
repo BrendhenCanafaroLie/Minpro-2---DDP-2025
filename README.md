@@ -32,10 +32,10 @@ Program akan menampilkan menunya berdasarkan role pengguna, yaitu sebagai beriku
    b. Tambah Ekskul\
    c. Ubah Ekskul\
    d. Hapus Ekskul\
-   e. Keluar\
+   e. Keluar
 3. Karyawan\
    a. Lihat Daftar Ekskul\
-   b. Keluar\
+   b. Keluar
 
 ## Pilihan Menu
 Proses Berdasarkan Pilihan Menu :
