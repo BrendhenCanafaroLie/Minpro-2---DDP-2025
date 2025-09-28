@@ -8,9 +8,9 @@
 Program yang saya buat ini merupakan mini project 2 pada mata kuliah **Praktikum Dasar-Dasar Pemrograman**. Program di koding menggunakan bahasa program Python yang menerapkan konsep CRUD (Create, Read, Update, Delete). Dengan menambahkan beberapa ketentuan fungsi yang telah dipelajari dalam mata kuliah. Hal yang di tambahkan adalah Dictionary, Perulangan For dan While, dan hal lainnya
 Tema yang dipilih adalah Ekstrakurikuler dengan tujuan untuk mengelola data kegiatan ekstrakurikuler di sekolah.
 Terdapat 2 role yang tersedia dalam program ini yaitu
-1) Manager (Password : 123)
-  Dapat mengakses 5 operasi menu yaitu CRUD (Create, Read, Update dan Delete)
-3) Karyawan (Password : 456)
+1) Manager (Password : 123)\
+   Dapat mengakses 5 operasi menu yaitu CRUD (Create, Read, Update dan Delete)
+3) Karyawan (Password : 456)\
    Hanya dapat mengakses penggunaan operasi melihat daftar ekstrakurikuler yang sudah ada
 
 # Flowchart
@@ -27,15 +27,15 @@ Pengguna harus memasukkan username dan password. Terdapat 2 percabangan, yaitu s
 
 ## Penampilan Menu
 Program akan menampilkan menunya berdasarkan role pengguna, yaitu sebagai berikut :
-1) Manager :
-   1. Lihat Daftar Ekskul
-   2. Tambah Ekskul
-   3. Ubah Ekskul
-   4. Hapus Ekskul
-   5. Keluar
-2) Karyawan
-   1. Lihat Daftar Ekskul
-   2. Keluar
+1. Manager :
+   1) Lihat Daftar Ekskul
+   2) Tambah Ekskul
+   3) Ubah Ekskul
+   4) Hapus Ekskul
+   5) Keluar
+2. Karyawan
+   1) Lihat Daftar Ekskul
+   2) Keluar
 
 ## Pilihan Menu
 Proses Berdasarkan Pilihan Menu :
