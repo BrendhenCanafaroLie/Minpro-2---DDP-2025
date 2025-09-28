@@ -5,7 +5,7 @@
 ### Kelas : Sistem Informasi A (2025)
 
 # Deskripsi Singkat
-Program yang saya buat ini merupakan mini project 2 pada mata kuliah **Praktikum Dasar-Dasar Pemrograman**. Program di koding menggunakan bahasa program Python yang menerapkan konsep CRUD (Create, Read, Update, Delete). Dengan menambahkan beberapa ketentuan fungsi yang telah dipelajari dalam mata kuliah. Hal yang di tambahkan adalah Dictionary, Perulangan For dan While, dan hal lainnya
+Program yang saya buat ini merupakan mini project 2 pada mata kuliah **Praktikum Dasar-Dasar Pemrograman**. Program di koding menggunakan bahasa program Python yang menerapkan konsep CRUD (Create, Read, Update, Delete). Dengan menambahkan beberapa ketentuan fungsi yang telah dipelajari dalam mata kuliah. Hal yang di tambahkan adalah Dictionary, Perulangan For dan While, dan hal lainnya\
 Tema yang dipilih adalah Ekstrakurikuler dengan tujuan untuk mengelola data kegiatan ekstrakurikuler di sekolah.
 Terdapat 2 role yang tersedia dalam program ini yaitu
 1) Manager (Password : 123)\
@@ -28,14 +28,14 @@ Pengguna harus memasukkan username dan password. Terdapat 2 percabangan, yaitu s
 ## Penampilan Menu
 Program akan menampilkan menunya berdasarkan role pengguna, yaitu sebagai berikut :
 1. Manager :
-   1) Lihat Daftar Ekskul
-   2) Tambah Ekskul
-   3) Ubah Ekskul
-   4) Hapus Ekskul
-   5) Keluar
-2. Karyawan
-   1) Lihat Daftar Ekskul
-   2) Keluar
+   a. Lihat Daftar Ekskul
+   b. Tambah Ekskul
+   c. Ubah Ekskul
+   d. Hapus Ekskul
+   e. Keluar
+3. Karyawan
+   a. Lihat Daftar Ekskul
+   b. Keluar
 
 ## Pilihan Menu
 Proses Berdasarkan Pilihan Menu :
